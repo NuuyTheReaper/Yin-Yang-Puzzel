@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Yin
+comment1.params=
+comment1.target=Yin()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveControl()
+comment4.params=
+comment4.target=void\ fall()
+comment5.params=
+comment5.target=void\ checkPlatform()
+comment6.params=
+comment6.target=void\ checkGoal()
+comment7.params=
+comment7.target=void\ checkWrongZone()
+comment8.params=
+comment8.target=void\ checkYangPlatformDanger()
+comment9.params=
+comment9.target=void\ checkGateCollision()
+numComments=10

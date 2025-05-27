@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Level2
+comment1.params=
+comment1.target=Level2()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ setYinReached()
+comment4.params=
+comment4.target=void\ setYangReached()
+comment5.params=
+comment5.target=void\ checkWinCondition()
+comment6.params=
+comment6.target=void\ openGate()
+comment7.params=
+comment7.target=void\ openGate1()
+comment8.params=
+comment8.target=void\ openGate2()
+comment9.params=
+comment9.target=void\ openGate3()
+numComments=10
